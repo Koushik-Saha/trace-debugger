@@ -1,0 +1,12 @@
+.git
+.github
+src
+__tests__
+.gitignore
+.eslintrc.json
+jest.config.js
+tsconfig.json
+.watchmanconfig
+*.test.ts
+*.md
+!README.md
